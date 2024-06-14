@@ -133,20 +133,4 @@ title: Home
 <section id="education" class="home-section">
   <h2>Education & Certification</h2>
   <p><strong>Bachelor of Science - Computer Science</strong><br>2011</p>
-  <p><strong>Certificate Course in Managing Emotions in Times of Uncertainty & Stress</strong><br>2022</p>
-  <p><strong>Google Cybersecurity Professional Certificate</strong><br>2023</p>
-  <p><strong>IBM SkillsBuild Cybersecurity Fundamental</strong><br>2023</p>
-  <p><strong>IBM: Working in a Digital World Professional Skills</strong><br>2024</p>
-  <p><strong>IBM: Solving Problems with Critical and Creative Thinking</strong><br>2024</p>
-  <p><strong>Comptia Sec+ (701)</strong><br>2024</p>
-  <p><strong>GIAC Certified Intrusion Analyst Certification (GCIA)</strong><br>In progress</p>
-  <p><strong>ISACA: Certified Risk and Information System Control</strong><br>In progress</p>
-</section>
-
-<section id="contact" class="home-section">
-  <h2>Contact</h2>
-  <p><strong>Bilal Olakunle Kareem</strong></p>
-  <p>Email: <a href="mailto:contact.bilal05@gmail.com">contact.bilal05@gmail.com</a></p>
-  <p>Phone: 613-854-5569</p>
-  <p>Location: Ontario, Canada</p>
-</section>
+  <p><strong>Certificate Course in Managing Emotions in Times of Uncertainty & Stress</strong><br>2022
