@@ -133,4 +133,7 @@ title: Home
 <section id="education" class="home-section">
   <h2>Education & Certification</h2>
   <p><strong>Bachelor of Science - Computer Science</strong><br>2011</p>
-  <p><strong>Certificate Course in Managing Emotions in Times of Uncertainty & Stress</strong><br>2022
+  <p><strong>Certificate Course in Managing Emotions in Times of Uncertainty & Stress</strong><br>2022</p>
+  <p><strong>Google Cybersecurity Professional Certificate</strong><br>2023</p>
+  <p><strong>IBM SkillsBuild Cybersecurity Fundamental</strong><br>2023</p>
+  <p><strong>IBM: Working in a Digital World Professional Skills</strong><br>202
