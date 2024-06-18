@@ -2,14 +2,10 @@ title: Bilal Olakunle Kareem - Cyber Security Analyst
 description: >
   Actively pursuing a position as a Cyber Security analyst, aiming to deploy my advanced technical competencies and extensive experience to fortify organizational security infrastructure.
 baseurl: ""
-url: "https://contactbilal05.github.io/test.io"
+url: "https://yourusername.github.io/test.io"
 theme: jekyll-theme-slate
 
 # Build settings
 markdown: kramdown
 kramdown:
   input: GFM
-
-# Custom CSS
-sass:
-  style: compressed
