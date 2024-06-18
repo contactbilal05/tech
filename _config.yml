@@ -9,3 +9,7 @@ theme: jekyll-theme-slate
 markdown: kramdown
 kramdown:
   input: GFM
+
+# Custom CSS
+sass:
+  style: compressed
